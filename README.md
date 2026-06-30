@@ -53,7 +53,7 @@ An easy-to-use Telegram bot that integrates seamlessly with PM2, enabling you to
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pm2-telegram.git
+git clone https://github.com/vandwi20/pm2-telegram
 cd pm2-telegram
 ```
 
